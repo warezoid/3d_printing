@@ -11,12 +11,23 @@ The 3D Printing Repository brings together my projects focused on 3D printing, e
 
 ## Table of Contents
 - [License](#license)
+- [Contact](#contact)
 - [Tools](#tools)
+- [Project overview](#project-overview)
 
 
 
 ## License
 The entire 3D printing repository is licensed under the MIT license. The full text of the license can be found [here](./LICENSE.md). For more information, please visit [Wikipedia - MIT License](https://en.wikipedia.org/wiki/MIT_License).
+
+
+
+## Contact
+For questions, comments, or suggestions for improvements, feel free to contact me via the **Issues tab on GitHub** or the **email below**.
+
+```
+warezoid@proton.me
+```
 
 
 
