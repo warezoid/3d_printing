@@ -29,3 +29,32 @@ Below you will find photos of the final product after installation on the TV.
 ---
 
 ## Drawings and 3D modelling
+The TV antenna bracket consists of two different parts which are connected by a trapezoidal groove. The parts can be glued together for additional reinforcement, but I decided to skip this step.
+
+### Side part
+The Side part is used twice in the project. It is used to fix the whole bracket to the TV via VESA holes. The bracket is designed for a VESA hole spacing of 200 millimetres. At the same time, this part is connected to the middle part by a trapezoidal groove. A separate TV antenna is then attached to the middle piece.
+
+A technical drawing of the Side part is shown below.
+
+![Side part drawing](./drawings/side_part_drawing.svg)
+
+
+**3D models**
+
+<br>
+
+The 3D models of the side part are available in FreeCAD format for possible modifications or in STL format, ready for direct 3D printing. Links can be found below:
+
+- FreeCAD format: [side_part.FCStd](./3d/freecad/side_part.FCStd)
+- STL: [side_part.stl](./3d/stl/side_part.stl)
+
+
+**Final part**
+
+<br>
+
+Below is a photo of the side part after 3D printing. No additional adjustments were made to the printed parts after printing.
+
+![Photo of side part.](./img/side_part_photo.png)
+
+---
