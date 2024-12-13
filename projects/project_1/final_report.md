@@ -60,6 +60,7 @@ Below is a photo of the **side part** after 3D printing. No additional adjustmen
 ---
 
 
+
 ### Middle part
 The middle part is used only once in the project. It is used to fix the TV antenna itself to the body of the bracket by means of zip ties. It also acts as a connecting element between the two side parts.
 
@@ -85,3 +86,46 @@ The 3D models of the **middle part** are available in FreeCAD format for possibl
 Below is a photo of the **middle part** after 3D printing. No additional adjustments were made to the printed parts after printing.
 
 ![Photo of middle part.](./img/middle_part_photo.png)
+
+---
+
+
+
+### Final assembly
+I also attach a technical drawing, 3D model and photos of the individual parts during final assembly. No special tools were needed for the assembly of the final product.
+
+![Final assembly drawing.](./drawings/final_assembly_drawing.svg)
+
+
+**3D models**
+
+<br>
+
+The 3D models of the **final assembly** are available in FreeCAD format for possible modifications. Links can be found below:
+
+- FreeCAD format: [final_assembly.FCStd](./3d/freecad/final_assembly.FCStd)
+
+
+**Final assembly photos**
+
+<br>
+
+No additional adjustments were made to the printed parts after printing.
+
+![Photo of final assembly.](./img/final_assembly_photo.png)
+
+Below you can find a photo of the product after attaching the TV antenna to the created bracket.
+
+![Photo of final product.](./img/final_product_photo.png)
+
+At the same time I am attaching a photo after the final attachment of the bracket with the antenna to the TV.
+
+![Photo of final installed product.](./img/installed_product_photo.jpg)
+
+---
+
+
+
+
+
+Created by warezoid with the love of freedom and numbers.
