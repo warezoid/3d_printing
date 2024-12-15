@@ -39,7 +39,8 @@ I use [FreeCAD](https://www.freecad.org/) for modelling, drawing and report crea
 ## Project overview
 The [Project Overview](#project-overview) section is used to better navigate between projects and provides a comprehensive list of all projects.
 
-- [Project 1 - TV antenna mount](projects/project_1/final_report.md)
+- [Project 1 - TV antenna mount](./projects/project_1/final_report.md)
+- [Project 2 - Plant marker](./projects/project_2/final_report.md)
 
 
 
