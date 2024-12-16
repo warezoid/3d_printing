@@ -9,6 +9,10 @@ The product is made of PLA plastic, which, although it comes from renewable sour
 
 If the product runs out of life, try to reuse it or recycle it properly.
 
+<br>
+
+![Detailed photo of installed marker.](./img/installed_marker_photo_2.jpg)
+
 ---
 
 
@@ -76,6 +80,13 @@ Below is a table of the material that was used to implement this project. Howeve
 
 
 ## Final installation
+For example, the name of the plant can be written on the printed piece using a marker.
+
+![Photo of described marker.](./img/described_marker_photo.jpg)
+
+Next, simply stick the marker into the soil next to the plant you want to mark. However, be careful not to damage the roots of the plant.
+
+![Photo of installed marker.](./img/installed_marker_photo_1.jpg)
 
 ---
 
