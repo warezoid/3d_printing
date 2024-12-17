@@ -72,6 +72,30 @@ Below is a table of the material that was used to implement this project. Howeve
 
 
 ## Drawings and 3D modelling
+The plant marker is made up of one part, which consists of a part for writing the name of the plant and a part for sticking into the soil.
+
+Below you can find a technical drawing of the plant marker.
+
+![Plant marker drawing.](./drawings/plant_marker_drawing.svg)
+
+
+**3D models**
+
+<br>
+
+The 3D models of the **plant marker** are available in FreeCAD format for possible modifications or in STL format, ready for direct 3D printing. Links can be found below:
+
+- FreeCAD format: [plant_marker.FCStd](./3d/freecad/plant_marker.FCStd)
+- STL: [plant_marker.stl](./3d/stl/plant_marker.stl)
+
+
+**Final part**
+
+<br>
+
+Below is a photo of the **plant marker** after 3D printing. No additional adjustments were made to the printed parts after printing.
+
+![Photo of plant marker.](./img/blank_marker_photo.jpg)
 
 ---
 
