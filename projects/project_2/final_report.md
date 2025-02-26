@@ -5,7 +5,7 @@ The goal of this project is to create a simple plant marker.
 
 **Warning**
 
-The product is made of PLA plastic, which, although it comes from renewable sources, is still plastic and therefore does not belong in the wild. I recommend using this project with respect for the environment - ideally in your own garden or in someone else's garden with the owner's permission.
+The product is made of PLA plastic, which does not belong in nature. I recommend using this project with respect for the environment - ideally in your own garden or in someone else's garden with the owner's permission.
 
 If the product runs out of life, try to reuse it or recycle it properly.
 

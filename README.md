@@ -41,6 +41,7 @@ The [Project Overview](#project-overview) section is used to better navigate bet
 
 - [Project 1 - TV antenna mount](./projects/project_1/final_report.md)
 - [Project 2 - Plant marker](./projects/project_2/final_report.md)
+- [Project 3 - Sponge holder](./projects/project_3/final_report.md)
 
 
 
