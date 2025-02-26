@@ -41,9 +41,11 @@ Below you will find photos of the final product after installation on the TV.
 <br>
 
 - Filament: [Hyper Series PLA 3D Printing Filament](https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg?variant=f5519251-fe97-4b57-9f1d-16ec93b94b97)
-- Printing time: 1h 17m
-- Material consumption: 21.7 m
+- Printing time: 1h 17m 16s
+- Material consumption: 21.71 m
+- Material weight: 64.74 g
 - Infill density: 15 %
+- Supports: no supports.
 
 ---
 
