@@ -66,7 +66,30 @@ Below is a table of the material that was used to implement this project. Howeve
 
 
 ## Drawings and 3D modelling
-...
+The sponge holder consists of two horizontal platforms placed at different heights. Each platform has a groove for catching excess water. The platforms are arranged in a stepped shape.  The walls of the step are perforated with a hexagonal grid, which ensures material saving, light weight, strength and attractive appearance. The whole structure forms one solid unit.
+
+Below you can find a technical drawing of the sponge holder.
+
+![Sponge holder drawing.](./drawings/sponge_holder_drawing.svg)
+
+
+**3D models**
+
+<br>
+
+The 3D models of the **sponge holder** are available in FreeCAD format for possible modifications or in STL format, ready for direct 3D printing. Links can be found below:
+
+- FreeCAD format: [sponge_holder.FCStd](./3d/freecad/sponge_holder.FCStd)
+- STL: [sponge_holder.stl](./3d/stl/sponge_holder.stl)
+
+
+**Final part**
+
+<br>
+
+Below is a photo of the **sponge holder** after 3D printing. No additional adjustments were made to the printed parts after printing.
+
+![Photo of sponge holder.]()
 
 ---
 
