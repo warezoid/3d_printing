@@ -3,7 +3,7 @@ The goal of this project is to create a kitchen holder that can hold a sponge an
 
 <br>
 
-![Detailed photo of installed sponge holder.](./)
+![Detailed photo of installed sponge holder.](./img/final_holder_photo.jpeg)
 
 ---
 
@@ -15,7 +15,6 @@ The goal of this project is to create a kitchen holder that can hold a sponge an
 - [3D printing information](#3d-printing-information)
 - [Material](#material)
 - [Drawings and 3D modelling](#drawings-and-3d-modelling)
-- [Final installation](#final-installation)
 - [License](#license)
 - [Contact](#contact)
 
@@ -89,16 +88,7 @@ The 3D models of the **sponge holder** are available in FreeCAD format for possi
 
 Below is a photo of the **sponge holder** after 3D printing. No additional adjustments were made to the printed parts after printing.
 
-![Photo of sponge holder.]()
-
----
-
-
-
-
-
-## Final installation
-...
+![Photo of sponge holder.](./img/holder_photo.jpeg)
 
 ---
 
